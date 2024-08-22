@@ -2,13 +2,5 @@ Bienvenido a este repositorio, el cual está diseñado para ofrecer una colecci�
 Esta biblioteca proporciona herramientas eficientes y precisas para llevar a cabo diversas operaciones matemáticas esenciales en el ámbito de los números complejos. 
 Las funcionalidades incluidas en esta biblioteca abarcan:
 
- -suma
- -resta
- -multiplicación
- -división
- -módulo
- -conjugado
- -conversión entre coordenadas cartesianas y polares
- -fase
-
+suma, resta, multiplicación, división, módulo, conjugado, conversión entre coordenadas cartesianas y polares, y fase.
 
