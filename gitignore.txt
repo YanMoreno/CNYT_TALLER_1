@@ -1,0 +1,25 @@
+# Archivos y directorios ignorados por Git
+
+# Archivos de configuración de entorno
+*.env
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de resultados de tests
+__pycache__/
+*.pyc
+
+# Archivos de logs
+*.log
+
+# Directorio de instalación de dependencias
+venv/
+
+# Archivo de ejecución del proyecto
+*.exe
+
+# Archivos de datos temporales
+*.tmp
+
